@@ -1,5 +1,8 @@
 Hello World
 ====================
+Video Tutorial
+https://www.bing.com/videos/search?q=codenvy+tutorial&&view=detail&mid=E9121958D18BC051EB90E9121958D18BC051EB90&&FORM=VDRVRV
+
 
 This is the Hello World assignment repository for WATS 3010. You will find everything you need to complete the Hello World assignment here.    
 
